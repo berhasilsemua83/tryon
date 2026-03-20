@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Try-On Generator",
+  "description": "Generate high-quality fashion try-on images with model identity locking and multiple product support.",
+  "requestFramePermissions": []
+}
